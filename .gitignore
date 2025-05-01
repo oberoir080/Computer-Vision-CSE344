@@ -1,18 +1,16 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+HW1_2021555.zip
+HW1_2021555/Tracking/data/
+HW1_2021555/Detection/data/
+HW1_2021555/Theory/
+Previous_year/
+*.zip
+*.py
+*.jpeg
+*.jpg
+*.png
+*.pcd
+/Merged Data
+/Project
+/HW1_2021555/Classification/weights
+/HW1_2021555/Detection
+/HW1_2021555/Segmentation
