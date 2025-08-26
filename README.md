@@ -1,4 +1,4 @@
-# Computer Vision Assignments - 2021555
+# Computer Vision Assignments
 
 This repository contains a comprehensive collection of Computer Vision assignments covering fundamental concepts, advanced techniques, and practical implementations. Each assignment focuses on different aspects of computer vision, from basic image processing to advanced deep learning models.
 
